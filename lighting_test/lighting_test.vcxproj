@@ -152,6 +152,9 @@
   <ItemGroup>
     <ClInclude Include="Camera.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\result\3.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
